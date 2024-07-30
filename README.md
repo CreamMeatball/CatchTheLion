@@ -1,6 +1,7 @@
 # twelve_chess
 
 Project TwelveChess
+The game 'Let's catch the lion!' with Flutter.
 
 ## Getting Started
 
